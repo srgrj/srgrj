@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @srgrj
+- 👋 Hi, I’m Somesh Garje
 - 👀 I’m interested in Python Backend Development
 - 🌱 I’m currently learning Django Rest Framework and React
 - 💞️ I’m looking to collaborate on Python Backend Development
